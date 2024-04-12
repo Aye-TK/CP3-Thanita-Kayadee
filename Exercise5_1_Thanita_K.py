@@ -1,0 +1,10 @@
+a = 50
+b = 5
+c = a + b
+d = a - b
+e = a * b
+f = a / e
+print("50 + 5 =", c)
+print("50 - 5 =", d)
+print("50 * 5 =", e)
+print("50 / 5 =", f)
